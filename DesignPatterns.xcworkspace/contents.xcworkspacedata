@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FundamentalDesignPatterns.playground">
+   </FileRef>
+   <FileRef
+      location = "group:IntermediateDesignPatterns.playground">
+   </FileRef>
+   <FileRef
+      location = "group:AdvancedDesignPatterns.playground">
+   </FileRef>
+</Workspace>
