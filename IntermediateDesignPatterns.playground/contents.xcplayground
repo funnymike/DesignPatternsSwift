@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Multicast Delegate Pattern'/>
+        <page name='State Pattern'/>
+        <page name='Prototype Pattern'/>
+        <page name='Iterator Pattern'/>
+        <page name='Model-View-ViewModel Pattern'/>
+        <page name='Factory Pattern'/>
+        <page name='Adapter Pattern'/>
+        <page name='Facade Pattern'/>
+    </pages>
 </playground>
